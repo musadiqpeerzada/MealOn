@@ -1,0 +1,41 @@
+#Admin
+1)maintain server
+2)manage data
+3)authenticate  manager
+
+#Server
+1)generate bills
+2)paymnt reminder and alerts
+3)absentee alerts
+4)alert for inventory stock
+5)Generate Coupouns/Tokens
+6)Prediction of estimated students attending the mess
+7)calculate nutrition of menu provided
+8)Mess Timing Alerts
+
+#mess manager
+1)manage bills of students and check absentees
+2)authenticate employees and manage their salaries
+3)CRUD inventory
+4)authenticate employees and students
+5)check menu along with rating given by students
+6)check monthly suggestions
+7)approve students
+8)Option to choose how users should pay(Monthly or daily Basis)
+9)help
+
+#mess employees
+1)update and add inventory items and nmanage inventory database
+2)Add daily menu
+3)check daily feedback rating
+4)check monthly suggestions
+5)help
+
+#Student side Android and web 
+1)pay bills
+2) Absentee/Presentee mark
+3) give daily Feedback
+4) Periodical suggestions
+5)can mark themselves late to remove plate aside
+6)order menu for snacks and get the token
+7)help
